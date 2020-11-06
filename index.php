@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+	<?php
 	<head><title> PATHPATH </title>
 	
 
@@ -37,5 +38,6 @@ I didn't want to move, didn't want to do anything. Fang was not waiting for me o
      
  </g>
 </svg>
+	?>
 		</body>
 </html>

@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+	<head><title> PATHPATH </title>
+	
+
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -5,6 +10,8 @@
 <style type="text/css">
 	.st0{fill:rgb(255, 255, 255);clip-rule:evenodd; }
 </style>
+	</head>
+<body>
 <g>
 	<path id="path10000" class="st0" d="M465.8,198.82C443.36,159.44,430.61,112.35,425,67c37.47,6.02,75.84,19.3,115.8,45.01l-1.29-28.97
 		c28.39,4.67,65.47,23.8,108.55,52.94l0.25-27.68c28.64,12.38,57.28,32.18,85.92,60.93l9.53-22.95
@@ -30,3 +37,5 @@ I didn't want to move, didn't want to do anything. Fang was not waiting for me o
      
  </g>
 </svg>
+		</body>
+</html>
